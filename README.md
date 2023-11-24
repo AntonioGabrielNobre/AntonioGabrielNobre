@@ -13,7 +13,7 @@
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-### Tecnologias que tenho conhecimento porem nao uso no meu dia a dia
+### Technologies technologies that I use in my daily life:
 
 <div style="display: inline_block"></br>
     <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,4 +23,4 @@
 </div>
 
 
-#### Adoro trabalhar com tecnologia e pretendo melhor ainda mais, busco sempre me desafiar e buscar me aprimorar. 
+#### I love working with technology and I want to do even better, I always seek to challenge and improve myself. 
